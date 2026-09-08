@@ -13,3 +13,5 @@ function factorial(n) {
 }
 
 console.log(factorial(5)); // 120
+console.log(factorial(10)); // 120
+console.log(factorial(50)); // 120
